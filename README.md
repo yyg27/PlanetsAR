@@ -2,7 +2,7 @@
 
 **PlanetsAR** is a Unity-based Augmented Reality (AR) project that lets users visualize planets and the solar system directly in their real environment. 
 
--  Built as a small project for CEN451 - Introduction to Mixed Reality Applications Lecture
+-  Built as a small project with pre-existing assets for CEN451 - Introduction to Mixed Reality Applications Lecture
 -   Built using Unity’s **AR Foundation** for cross-platform AR support (iOS / Android)
 - This just source code you need to build for yourself (see Installation)
     
