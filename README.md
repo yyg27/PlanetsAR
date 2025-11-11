@@ -5,7 +5,7 @@
 
 -  Built as a small project with pre-existing assets for CEN451 - Introduction to Mixed Reality Applications Lecture
 -   Built using Unity’s **AR Foundation** for cross-platform AR support (iOS / Android)
-- This just source code you need to build for yourself (see Installation)
+- This is just source code you need to build for yourself (see Installation)
     
 
 ## Technologies Used
