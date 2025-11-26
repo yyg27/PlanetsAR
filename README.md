@@ -35,6 +35,6 @@
 4. Build and run on your AR-supported device.
 
 ## Releases
-- Alternatively, you can download the **iOS v1.0.0 build** from the [Releases section](https://github.com/yyg27/PlanetsAR/releases) on GitHub.
+- Alternatively, you can download the **iOS v1.0.0 build** or **Android v1.0.0 build** from the [Releases section](https://github.com/yyg27/PlanetsAR/releases) on GitHub.
 - After downloading, open the `.ipa` file with **Xcode** or **Apple Configurator** to install it on your AR-supported iOS device.
 - Make sure your device has **ARKit support** and the necessary permissions (Camera, Motion & Orientation) are granted.
